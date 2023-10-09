@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
+    username: 'adiadzaky1', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 15, // How many projects to display.
     exclude: {
@@ -11,11 +11,11 @@ const config = {
     },
   },
   social: {
-    twitter: 'Zeeoneofc',
-    instagram: 'Zeeoneofc',
-    dev: 'Zeeoneofc',
-    website: 'https://api.zeeoneofc.my.id',
-    phone: '+62887435047326',
+    twitter: 'Pedia',
+    instagram: 'Pedia',
+    dev: 'PediDEV',
+    website: 'https://s.id/PediaBotz',
+    phone: '+6285877276864',
     email: 'zeeoneofc@yahoo.com',
   },
   resume: {
