@@ -11,8 +11,8 @@ const config = {
     },
   },
   social: {
-    twitter: 'Pedia',
-    instagram: 'Pedia',
+    twitter: 'https://twitter.com/Pedia',
+    instagram: 'https://instagram.com/Pedia',
     dev: 'PediDEV',
     website: 'https://s.id/PediaBotz',
     phone: '+6285877276864',
@@ -48,7 +48,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'zeeoneofc', // to hide blog section, keep it empty
+    username: 'Adisdzaky1', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
